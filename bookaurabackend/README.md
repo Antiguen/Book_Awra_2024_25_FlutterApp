@@ -1,6 +1,6 @@
 # BookAura Backend
 
-This is the backend API for BookAura, a digital library and storytelling platform. The backend is built with [NestJS](https://nestjs.com/) and MongoDB, providing RESTful endpoints for authentication, user management, books, stories, announcements, comments, and more.
+This is the backend API for BookAura, a digital library platform. The backend is built with [NestJS](https://nestjs.com/) and MongoDB, providing RESTful endpoints for authentication, user management, books, stories, announcements, comments, and more.
 
 ---
 
