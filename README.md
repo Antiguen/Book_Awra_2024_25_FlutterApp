@@ -28,8 +28,8 @@ The project follows a layered architecture:
 
 ## Repositories
 
-- [Frontend (Flutter)](https://github.com/your-org/bookaura-frontend](https://github.com/Antiguen/Book_Awra_2024_25_FlutterApp/tree/main/bookaura))
-- [Backend (NestJS)](https://github.com/your-org/bookaura-backend)
+- [Frontend (Flutter)](./bookaura)
+- [Backend (NestJS)](./bookaurabackend)
 
 ## Getting Started
 
