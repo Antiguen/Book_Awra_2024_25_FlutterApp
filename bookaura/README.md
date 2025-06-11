@@ -1,6 +1,6 @@
 # BookAura Frontend
 
-This is the Flutter frontend for BookAura, a digital library platform. It provides a modern, responsive interface for users to interact with books, manage their library, and handle authentication.
+This is the Flutter frontend for BookAura, a digital library platform. It provides a modern, friendly and responsive interface for users to interact with books, manage their library, and handle authentication.
 
 ## Features
 
