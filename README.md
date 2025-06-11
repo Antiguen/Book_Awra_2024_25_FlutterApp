@@ -1,6 +1,6 @@
 # BookAura
 
-BookAura is a full-stack digital library platform that allows users to discover, read, and manage books and stories. The project is divided into two main repositories:
+BookAura is a full-stack digital library platform that allows users to discover, read, upload and manage books and stories. The project is divided into two main repositories:
 
 - **Frontend:** A Flutter application for mobile and web, providing a modern, responsive user interface.
 - **Backend:** A RESTful API built with NestJS and MongoDB, handling authentication, book management, user profiles, and more.
